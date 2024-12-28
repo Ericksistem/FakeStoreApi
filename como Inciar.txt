@@ -1,0 +1,10 @@
+
+
+#asegurarse de tener instalado node.js -version 18.5 en adelante 
+#si va emular la aplicacion debe tener swiftui, android studio para emularla 
+# si la emulara con la app de expo descarguela de la playstore https://play.google.com/store/apps/details?id=host.exp.exponent&hl=es_SV
+# ahora abra el proyecto en visual studio 
+habra una terminal (se encuentra en el view) 
+agrege la siguiente: cd APIFAKESHOP
+luego agregue lo siguiente : npx expo start
+le saldra  un qr lo scanea con la app de expo y la aplicacion podra correr sin problemas 
